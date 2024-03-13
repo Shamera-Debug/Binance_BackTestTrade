@@ -8,8 +8,8 @@ import requests
 #####################################################################################
 # 바이낸스 Funcion 
 # API 키 수정 필요
-api_key = '4dqvjqCSUXkDmZWo0nQLCKGz0EqSHQFcXQwqGJaWyQyeUScerGXoweMFCKaMd6di'
-api_secret = '1pOOpOOpHaDqhxy0IKUQ67NPkfcSSDWsZUl9xpGiEUyxYI11YqO3jXBVmHwGTsVh' 
+api_key = ''
+api_secret = '' 
 #####################################################################################
 
 # Binance Server Time
